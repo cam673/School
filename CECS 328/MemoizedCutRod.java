@@ -1,4 +1,4 @@
-
+//CECS 328
 public class MemoizedCutRod {
 	
 	//memoizedCutRod function from book, with an extra int array to store the rod lengths for max value
